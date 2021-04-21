@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+#titulo{
+ background-color: #ff4c68;
+}
+#navbar{
+ background-color: #ff4c68;
+}
+h1 {
+ font-family: Baskerville, 'Palatino Linotype', Palatino, 'Century Schoolbook L', 'Times New Roman', 'serif';
+ font-weight: 900;
+ font-size: 3.5rem;
+ line-height: 1.5;
+}
